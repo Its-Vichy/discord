@@ -1,0 +1,122 @@
+body {
+    background-color: #2C3748;
+    font-weight: 400;
+    color: #5b5b5b;
+    line-height: 1.6;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+a {
+    color: #6375ff;
+    text-decoration: none
+}
+
+a:hover {
+    color: #6f7ffc;
+    text-decoration: none
+}
+
+input {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.area {
+    width: 100%;
+    max-width: 350px;
+    text-align: center;
+    padding: 10px;
+    background-color: #243040;
+    border-radius: 5%;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+.logo_index {
+    width: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: #6375FF !important;
+    border-radius: 5px !important;
+    border-color: #2C3748 !important;
+    color: #C9D1D4 !important;
+    width: 200px !important;
+    box-shadow: none !important;
+}
+
+.btn-primary:active, .btn-primary:active:focus, .btn-primary:hover {
+    background-color: #6d7dfa !important;
+    border-radius: 6px !important;
+    border-color: #2C3748 !important;
+    color: #C9D1D4 !important;
+    
+}
+
+input[type="text"], input[type="password"] {
+    background-color: #222C3A !important;
+    border-radius: 5px !important;
+    border-color: #2C3748  !important;
+    box-shadow: none !important;
+}
+
+.btn-vl {
+    background-color: #9C6EFC !important;
+}
+
+.btn-vl:hover {
+    background-color: #ac85ff !important;
+}
+
+.white-text {
+    color: #cdc5dd !important;
+}
+
+.aligned {
+    padding-bottom: 3px;
+}
+
+.btn-vr {
+    background-color: #59af44 !important;
+}
+
+.btn-vr:hover {
+    background-color: #3c9c39 !important;
+}
+
+.btn-jn {
+    background-color: #c7b04b !important;
+}
+
+.btn-jn:hover {
+    background-color: #bda044 !important;
+}
+
+.btn-rj {
+    background-color: #d35b52 !important;
+}
+
+.btn-rj:hover {
+    background-color: #bd4444 !important;
+}
+
+.check_b {
+    color: #aab2b4;
+    background-color: #2c3d58;
+    border-radius: 5px;
+}
